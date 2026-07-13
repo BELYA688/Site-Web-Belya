@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://belyasolutions.com/sitemap.xml
